@@ -40,3 +40,7 @@ Outliers falling outside the Interquartile Range (IQR) but not classified as ano
 ## Final Dataset
 
 After cleaning, the final dataset consists of 734 building meters with complete and reliable time series data, each spanning 17544 hourly observations from 2016 to 2018.
+
+## Full Project
+
+The full project report can be seen under: Project Report file.
